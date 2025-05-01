@@ -4,7 +4,7 @@ Permanent link generator to Google Drive resources (e.g. images)
 
 ## Where is it?
 
-The tool is available as a simple HTML page here: <a href="http://kolorobot.github.io/permalink/" target="_blank">Permalink</a>
+The tool is available as a simple HTML page here: <a href="https://mapedia-th.github.io/permalink/" target="_blank">Permalink</a>
 
 ## How to use it?
 
